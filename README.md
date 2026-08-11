@@ -13,3 +13,5 @@ This project predicts customer churn using Python, scikit-learn, and Streamlit. 
 - Interactive Streamlit Web App
 
 Built as part of a complete data science tutorial.
+## Churn Prediction App
+<img width="1920" height="1080" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/1aedcccb-f607-40a8-a339-c03ecea62f39" />
