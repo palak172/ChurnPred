@@ -1,0 +1,7 @@
+pandas
+matplotlib
+#sklearn
+scikit-learn
+imbalanced-learn
+streamlit
+joblib
